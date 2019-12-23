@@ -7,11 +7,15 @@
 /jsdoc
 /node_modules
 .DS_Store
+temp_auto_push.bat
 .idea
 .project
 .settings
-.vscode
 bower.json
 *.log
 *.swp
 *.stackdump
+
+chart.js-*.tgz
+.gitignore
+branch_structure.json
