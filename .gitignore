@@ -12,6 +12,7 @@ npm-debug.log*
 .cache-loader
 build/
 # generated typedocs
+temp_auto_push.bat
 docs/api
 
 # Development
@@ -23,7 +24,8 @@ docs/api
 .idea
 .project
 .settings
-.vscode
 *.log
 *.swp
 *.stackdump
+.gitignore
+branch_structure.json
