@@ -13,6 +13,7 @@ npm-debug.log*
 build/
 # generated typedocs
 docs/api
+temp_auto_push.bat
 
 # Development
 .DS_Store
@@ -23,10 +24,11 @@ docs/api
 .idea
 .project
 .settings
-.vscode
 *.log
 *.swp
 *.stackdump
 
 # Generated
 /types/tests/autogen*.ts
+.gitignore
+branch_structure.json
