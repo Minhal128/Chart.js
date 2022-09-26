@@ -14,6 +14,7 @@ build/
 # generated typedocs
 docs/api
 docs/.vuepress/dist
+temp_auto_push.bat
 
 # Development
 .DS_Store
@@ -24,10 +25,11 @@ docs/.vuepress/dist
 .idea
 .project
 .settings
-.vscode
 *.log
 *.swp
 *.stackdump
 
 # Generated
 /types/tests/autogen*.ts
+.gitignore
+branch_structure.json
